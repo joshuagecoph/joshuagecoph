@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Joshua Ven Honoridez
 - 👀 I’m interested in Anime, Collection Figures, Playing Dotes, Watching Tourneys and Chilling~~
 - 🌱 I’m currently learning Go Language and Jap (͡• ͜ʖ ͡•)
-- 💞️ I’m looking to collaborate on society and open-source projects that helps my local community
+- 💞️ Currently a newbie here in Gecogeo
 - 📫 Personal Github account [@joshuaven](https://github.com/joshuaven)
 
 ## Reach me out in
