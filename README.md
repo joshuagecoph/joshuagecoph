@@ -5,9 +5,7 @@
 - 📫 Personal Github account [@joshuaven](https://github.com/joshuaven)
 
 ## Reach me out in
-- [GMail](mailto:joshua.honoridez@gecogeco.com)
 
-<!---
-joshuaven-matimco/joshuaven-matimco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ### EMail - joshua.honoridez@gecogeco.com
+- ### Slacks - Joshua Ven Honoridez
+- ### Phone Number: +63 976 003 1156
